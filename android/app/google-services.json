@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144304505985",
+    "project_id": "generallms",
+    "storage_bucket": "generallms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144304505985:android:b2b98469b4860d2cd7f980",
+        "android_client_info": {
+          "package_name": "com.example.admin_lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144304505985-lrr7m6b5fhjnhcprl6q69qamvkmf97kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlHhuYBYt1mUFRZHhUSXz3s4R5rJYawVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144304505985-lrr7m6b5fhjnhcprl6q69qamvkmf97kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
